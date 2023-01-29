@@ -1,0 +1,163 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3856406 */
+  src: url('iconfont.woff2?t=1674399520971') format('woff2'),
+       url('iconfont.woff?t=1674399520971') format('woff'),
+       url('iconfont.ttf?t=1674399520971') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-aixin:before {
+  content: "\e617";
+}
+
+.icon-bofang:before {
+  content: "\e624";
+}
+
+.icon-shexiangtou_shiti:before {
+  content: "\eca5";
+}
+
+.icon-yuyinyou:before {
+  content: "\e628";
+}
+
+.icon-yuyinzuo:before {
+  content: "\e62b";
+}
+
+.icon-24gf-volumeCross:before {
+  content: "\ea0f";
+}
+
+.icon-24gf-volumeHigh:before {
+  content: "\ea11";
+}
+
+.icon-guaduan:before {
+  content: "\e63b";
+}
+
+.icon-scale:before {
+  content: "\e6b4";
+}
+
+.icon-jianpan:before {
+  content: "\e661";
+}
+
+.icon-tupian:before {
+  content: "\e602";
+}
+
+.icon-maikefeng:before {
+  content: "\e65f";
+}
+
+.icon-weizhi:before {
+  content: "\e8ff";
+}
+
+.icon-hongbao:before {
+  content: "\e870";
+}
+
+.icon-transfer-fill:before {
+  content: "\e688";
+}
+
+.icon-shouji:before {
+  content: "\e601";
+}
+
+.icon-24gl-portraitMalePlus4:before {
+  content: "\eb25";
+}
+
+.icon-xiangji:before {
+  content: "\e8c7";
+}
+
+.icon-pengyouquan:before {
+  content: "\e68c";
+}
+
+.icon-tianjiayonghu:before {
+  content: "\e600";
+}
+
+.icon-shoucang:before {
+  content: "\e604";
+}
+
+.icon-weixinzhifu:before {
+  content: "\e62a";
+}
+
+.icon-shezhi:before {
+  content: "\e68f";
+}
+
+.icon-xiaoxi:before {
+  content: "\e68d";
+}
+
+.icon-tongxunlu:before {
+  content: "\e6c2";
+}
+
+.icon-qitafuwu:before {
+  content: "\e639";
+}
+
+.icon-yuyin:before {
+  content: "\e618";
+}
+
+.icon-video:before {
+  content: "\e61f";
+}
+
+.icon-nan:before {
+  content: "\e6c3";
+}
+
+.icon-biaoqing:before {
+  content: "\e60b";
+}
+
+.icon-ico:before {
+  content: "\e646";
+}
+
+.icon-zhaopian:before {
+  content: "\e614";
+}
+
+.icon-kabao:before {
+  content: "\e638";
+}
+
+.icon-fuwuanli:before {
+  content: "\e6ae";
+}
+
+.icon-shejiaotubiao-02:before {
+  content: "\e641";
+}
+
+.icon-faxian:before {
+  content: "\e6a2";
+}
+
+.icon-a-icon-person-nv2:before {
+  content: "\e607";
+}
+
